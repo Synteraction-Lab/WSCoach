@@ -5,7 +5,7 @@ A wearable assistant that uses auditory feedback to help users avoid unwanted wo
 
 ## Contact person
 - [Zhang Youpeng]()
-- [Nuwan Janaka](https://synteraction.org/our-team) ([In](https://www.linkedin.com/in/nuwan-janaka/))
+- [Nuwan Janaka](https://synteraction.org/our-team)
 
 ## Project links
 - Project folder (private access): [here](https://drive.google.com/drive/folders/1KnIMTrzVriC6w6rprHvBf-fmTV05ISWJ)
