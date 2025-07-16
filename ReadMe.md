@@ -2,7 +2,8 @@
 A wearable assistant that uses auditory feedback to help users avoid unwanted words in everyday conversation.
 
 ## Publications
-
+- WSCoach: Wearable Real-time Auditory Feedback for Reducing Unwanted Words in Daily Communication, UbiComp/ISWC'25
+  - Camera Ready [PDF]()
 ## Contact person
 - [Zhang Youpeng]()
 - [Nuwan Janaka](https://synteraction.org/our-team)
