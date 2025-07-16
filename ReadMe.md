@@ -1,4 +1,14 @@
 # WSCOACH
+A wearable assistant that uses auditory feedback to help users avoid unwanted words in everyday conversation.
+
+## Publications
+
+## Contact person
+- [Zhang Youpeng]()
+- [Nuwan Janaka](https://synteraction.org/our-team) ([In](https://www.linkedin.com/in/nuwan-janaka/))
+
+## Project links
+- Project folder (private access): [here](https://drive.google.com/drive/folders/1KnIMTrzVriC6w6rprHvBf-fmTV05ISWJ)
 
 ## Table of Contents
 
