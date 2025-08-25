@@ -1,2 +1,79 @@
 MODEL/**
 **/__pycache__/**
+
+# Log file
+*.log
+logs/
+
+
+# System Files
+.DS_Store
+Thumbs.db
+/local.properties
+
+# IDEs and editors
+.idea
+.gradle
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+proguard/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+target/
+**/build/
+
+# Android Studio captures folder
+captures/
+
+# lint
+/lint
+
+
+
+## Python
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+**/*_lastrun.py
+
+
+# Distribution / packaging
+.Python
+eggs/
+.eggs/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+
+# PyBuilder
+.pybuilder/
+

@@ -1,5 +1,5 @@
-torch v2.5.1
-whisper v0.7
-pyttsx4 v3.0
-faster_whisper v0.7
-gradio v5
+torch==2.5.1
+pyttsx4==3.0
+faster-whisper~=0.10
+gradio~=5.0.0
+pyaudio~=0.2.14

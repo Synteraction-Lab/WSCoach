@@ -1,12 +1,24 @@
-# WSCOACH
+# WSCoach
 A wearable assistant that uses auditory feedback to help users avoid unwanted words in everyday conversation.
 
 ## Publications
-- WSCoach: Wearable Real-time Auditory Feedback for Reducing Unwanted Words in Daily Communication, UbiComp/ISWC'25
-  - Camera Ready [PDF]()
+- WSCoach: Wearable Real-time Auditory Feedback for Reducing Unwanted Words in Daily Communication, IMWUT'25
+  - Camera Ready [PDF](paper/IMWUT2025_WSCoach.pdf)
+```
+@article{youpeng_wscoach_2025,
+	title = { {WSCoach}: {Wearable} {Real-time} {Auditory} {Feedback} for {Reducing} {Unwanted} {Words} in {Daily} {Communication}},
+	shorttitle = {{WSCoach}},
+	journal = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+	author = {Youpeng, Zhang and Janaka, Nuwan and Ram, Ashwin and Yin, Peilin and Yang, Tian and Zhao, Shengdong and Dragicevic, Pierre},
+	year = {2025},
+    doi = {10.1145/3749531},
+}
+
+```
+
 ## Contact person
-- [Zhang Youpeng]()
-- [Nuwan Janaka](https://synteraction.org/our-team)
+- [Zhang Youpeng](https://synteraction.org/our-team)
+- [Nuwan Janaka](https://synteraction.org/our-team) ([In](https://www.linkedin.com/in/nuwan-janaka/))
 
 ## Project links
 - Project folder (private access): [here](https://drive.google.com/drive/folders/1KnIMTrzVriC6w6rprHvBf-fmTV05ISWJ)
@@ -39,12 +51,12 @@ A wearable assistant that uses auditory feedback to help users avoid unwanted wo
 - **Tracking**: Keeps track of the number of times each word is detected.
 
 ### Installation
-
-No additional installation is required for this module. However, make sure that the required dependencies are installed in your Python environment, the required dependencies is listed in the `requirement.txt`.
+- Make sure Python3 (>=3.10) is installed.
+- Install the required dependencies in `requirement.txt` (e.g., `pip install -r requirement.txt`).
 
 ### Usage
+- Run the `HTML_render.py` (`python HTML_render.py`) to use the basic features of WSCoach.
 
-If you want a easy show of the WSCOACH, just run the `HTML_render.py` and then you can use the basic features of WSCOACH.
 
 ## FasterWhisperModel Module
 

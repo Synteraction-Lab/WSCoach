@@ -22,7 +22,7 @@ class Seafoam(Base):
         neutral_hue: colors.Color | str = colors.stone,
         spacing_size: sizes.Size | str = sizes.spacing_md,
         radius_size: sizes.Size | str = sizes.radius_md,
-        text_size: sizes.Size | str = sizes.text_very_large,
+        text_size: sizes.Size | str = sizes.text_lg,
         font: fonts.Font
         | str
         | Iterable[fonts.Font | str] = (
