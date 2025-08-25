@@ -1,10 +1,11 @@
-MODEL/**
-**/__pycache__/**
+# whisper models
+Script/MODEL/
+MODEL/
 
+# temp audio files
 temp.wav
 111.wav
 
-Script/MODEL/
 
 # Log file
 *.log
@@ -53,6 +54,7 @@ captures/
 
 
 # Byte-compiled / optimized / DLL files
+**/__pycache__/**
 __pycache__/
 *.py[cod]
 *$py.class
