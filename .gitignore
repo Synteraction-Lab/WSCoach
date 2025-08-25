@@ -1,10 +1,14 @@
 MODEL/**
 **/__pycache__/**
 
+temp.wav
+111.wav
+
+Script/MODEL/
+
 # Log file
 *.log
 logs/
-
 
 # System Files
 .DS_Store
